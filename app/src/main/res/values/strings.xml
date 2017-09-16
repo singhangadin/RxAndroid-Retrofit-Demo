@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RxJava-Retrofit Example</string>
+    <string name="label_go">Yo!</string>
+</resources>
